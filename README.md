@@ -8,3 +8,6 @@ This is my first assignment using C++.
 
 ## Purpose
 To build a strong foundation in programming
+
+## Author
+MUHAMMAD AL-ARSYAD BIN MOHAMAD NOR
